@@ -10,7 +10,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 
 ## p-uplets et p-uplets nommés
 | Capacités attendues | Écrire une fonction renvoyant un p-uplet de valeurs |
-
+| :-- | :-- |
 
 
 | Contenus | Capacités attendues |
