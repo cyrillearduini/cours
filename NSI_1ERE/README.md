@@ -36,7 +36,7 @@
 
 # [Chapitre 2 : Représentation des données : Types et valeurs de bases](../2.TYPES_BASE)
 
-# [Chapitre 3 : Représentation des données : types construits](./_ressources_/3.TYPES_CONSTRUITS)
+# [Chapitre 3 : Représentation des données : types construits](../_ressources_/3.TYPES_CONSTRUITS)
 
 # [Chapitre 4 : Traitement de données en tables](../4.TABLES)
 
