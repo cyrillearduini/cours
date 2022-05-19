@@ -18,18 +18,18 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 - TP : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.2-TP_p-uplets.ipynb)
 
 ## Tableau indexé, tableau donné en compréhension
-| Contenu | Capacités attendues |
-| :-- | :-- |
-| Tableau indexé, tableau donné en compréhension | Lire et modifier les éléments d’un tableau grâce à leurs index<br>Construire un tableau par compréhension<br> Utiliser des tableaux de tableaux pour représenter des matrices : notation `a[i][j]` <br>Itérer sur les éléments d’un tableau |
+>| Contenu | Capacités attendues |
+>| :-- | :-- |
+>| Tableau indexé, tableau donné en compréhension | Lire et modifier les éléments d’un tableau grâce à leurs index<br>Construire un tableau par compréhension<br> Utiliser des tableaux de tableaux pour représenter des matrices : notation `a[i][j]` <br>Itérer sur les éléments d’un tableau |
 
 - Cours : 
 
 - TP : 
 
 ## Dictionnaires par clés et valeurs
-| Contenu | Capacités attendues |
-| :-- | :-- |
-| Dictionnaires par clés et valeurs | Construire une entrée de dictionnaire <br>Itérer sur les éléments d’un dictionnaire |
+>| Contenu | Capacités attendues |
+>| :-- | :-- |
+>| Dictionnaires par clés et valeurs | Construire une entrée de dictionnaire <br>Itérer sur les éléments d’un dictionnaire |
 
 - Cours
 
