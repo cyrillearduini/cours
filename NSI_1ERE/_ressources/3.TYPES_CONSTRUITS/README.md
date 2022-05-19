@@ -15,7 +15,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
   
   >| Contenu | Capacités attendues |
   >| :-- | :-- |
-  >| p-uplets et p-uplets nommés | Écrire une fonction renvoyant un p-uplet de valeurs |
+  >| p-uplets et p-uplets nommés | - Écrire une fonction renvoyant un p-uplet de valeurs |
   
 </details>
 
@@ -29,7 +29,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
   
   >| Contenu | Capacités attendues |
   >| :-- | :-- |
-  >| Tableau indexé, tableau donné en compréhension | Lire et modifier les éléments d’un tableau grâce à leurs index<br>Construire un tableau par compréhension<br> Utiliser des tableaux de tableaux pour représenter des matrices : notation `a[i][j]` <br>Itérer sur les éléments d’un tableau |
+  >| Tableau indexé, tableau donné en compréhension | - Lire et modifier les éléments d’un tableau grâce à leurs index<br>- Construire un tableau par compréhension<br>- Utiliser des tableaux de tableaux pour représenter des matrices : notation `a[i][j]`<br>- Itérer sur les éléments d’un tableau |
   
 </details>
   
@@ -43,7 +43,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 
   >| Contenu | Capacités attendues |
   >| :-- | :-- |
-  >| Dictionnaires par clés et valeurs | Construire une entrée de dictionnaire <br>Itérer sur les éléments d’un dictionnaire |
+  >| Dictionnaires par clés et valeurs | - Construire une entrée de dictionnaire <br>- Itérer sur les éléments d’un dictionnaire |
 
 </details>
 
