@@ -10,10 +10,11 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 
 ## p-uplets et p-uplets nommés
 
+<center>
 | Contenus | Capacités attendues |
 | :--: | :-- |
 | p-uplets. <br>p-uplets nommés | Écrire une fonction renvoyant un p-uplet de valeurs. |
-
+</center>
 
 
 - Cours : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.1-Cours_p-uplets.ipynb)
