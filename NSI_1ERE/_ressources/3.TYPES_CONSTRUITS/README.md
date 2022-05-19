@@ -14,7 +14,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
   <summary><i>Contenu, capacités</i></summary>
   
   >| Contenu | Capacités attendues |
-  >| -- | -- |
+  >| :-- | :-- |
   >| p-uplets et p-uplets nommés | - Écrire une fonction renvoyant un p-uplet de valeurs |
   
 </details>
