@@ -9,9 +9,9 @@ Par exemple, si nous voulons gérer un ensemble de points en géométrie, chacun
 Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux types d’objets : le type **tuple** (n-uplet), le type **list** (liste) et le type **dict** (dictionnaire). Ces types présentent des **points communs** mais aussi des **différences**, ils nous permettront d’adresser des besoins similaires et leur différences nous aideront à faire notre choix en fonction du problème à résoudre.
 
 ## p-uplets et p-uplets nommés
-- Cours : [Notebook Basthon](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/nsi-premiere/master/6.TYPES_CONSTRUITS/6.1-Cours-Tuples.ipynb)
+- [Cours : p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/nsi-premiere/master/6.TYPES_CONSTRUITS/3.1 - Cours p-uplets.ipynb)
 
-- TP : 
+- [TP : p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/nsi-premiere/master/6.TYPES_CONSTRUITS/3.2 - TP p-uplets.ipynb)
 
 ## Tableau indexé, tableau donné en compréhension
 - Cours : 
