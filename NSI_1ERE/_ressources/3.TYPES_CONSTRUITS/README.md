@@ -19,9 +19,9 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
   
 </details>
 
-- Cours : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.1-Cours_p-uplets.ipynb) _(clic droit "ouvrir le lien dans un nouvel onglet")_
+- **Cours** : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.1-Cours_p-uplets.ipynb) _(clic droit "ouvrir le lien dans un nouvel onglet")_
 
-- TP : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.2-TP_p-uplets.ipynb) _(clic droit "ouvrir le lien dans un nouvel onglet")_
+- **TP** : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.2-TP_p-uplets.ipynb) _(clic droit "ouvrir le lien dans un nouvel onglet")_
 
 ## Tableau indexé, tableau donné en compréhension
 <details>
@@ -47,7 +47,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 
 </details>
 
-- Cours : [Dictionnaires]()
+- **Cours** : [Dictionnaires]()
 
-- TP : [Dictionnaires]()
+- **TP** : [Dictionnaires]()
 
