@@ -11,7 +11,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 ## p-uplets et p-uplets nommés
 | Contenu | Capacités attendues |
 | :-- | :-- |
-| p-uplets. <br>p-uplets nommés | Écrire une fonction renvoyant un p-uplet de valeurs |
+| p-uplets et p-uplets nommés | Écrire une fonction renvoyant un p-uplet de valeurs |
 
 - Cours : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.1-Cours_p-uplets.ipynb)
 
@@ -20,7 +20,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 ## Tableau indexé, tableau donné en compréhension
 | Contenu | Capacités attendues |
 | :-- | :-- |
-| Tableau indexé, tableau donné en compréhension | Lire et modifier les éléments d’un tableau grâce à leurs index<br>Construire un tableau par compréhension<br> Utiliser des tableaux de tableaux pour représenter des matrices : notation a[i][j] <br>Itérer sur les éléments d’un tableau |
+| Tableau indexé, tableau donné en compréhension | Lire et modifier les éléments d’un tableau grâce à leurs index<br>Construire un tableau par compréhension<br> Utiliser des tableaux de tableaux pour représenter des matrices : notation `a[i][j]` <br>Itérer sur les éléments d’un tableau |
 
 - Cours : 
 
