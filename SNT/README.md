@@ -29,11 +29,11 @@
 
 ---  
 
-# [Chapitre 1 : Internet]()
-# [Chapitre 2 : Le Web]()
-# [Chapitre 3 : Les réseaux sociaux]()
-# [Chapitre 4 : Les données structurées]()
-# [Chapitre 5 : Localisation, cartographie et mobilité]()
-# [Chapitre 6 : La photographie numérique]()
-# [Chapitre 7 : Informatique embarquée et objets connectés]()
+## [Chapitre 1 : Internet]()
+## [Chapitre 2 : Le Web]()
+## [Chapitre 3 : Les réseaux sociaux]()
+## [Chapitre 4 : Les données structurées]()
+## [Chapitre 5 : Localisation, cartographie et mobilité]()
+## [Chapitre 6 : La photographie numérique]()
+## [Chapitre 7 : Informatique embarquée et objets connectés]()
 
