@@ -22,7 +22,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 - <a href="http://example.com/" target="_blank">Hello, world!</a>
 
 
-- Cours : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.1-Cours_p-uplets.ipynb){:target="_blank"}
+- Cours : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.1-Cours_p-uplets.ipynb/?target=_blank)
 
 - TP : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.2-TP_p-uplets.ipynb)
 
