@@ -34,18 +34,18 @@
 
 ---  
 
-## [Chapitre 1 : Langages et programmation](./_ressources/1.LANGAGES)
+## [Chapitre 1 : Langages et programmation](./_ressources/1.LANGAGES/README.md)
 
-## [Chapitre 2 : Représentation des données : Types et valeurs de bases](./_ressources/2.TYPES_BASE)
+## [Chapitre 2 : Représentation des données : Types et valeurs de bases](./_ressources/2.TYPES_BASE/README.md)
 
 ## [Chapitre 3 : Représentation des données : types construits](./_ressources/3.TYPES_CONSTRUITS/README.md)
 
-## [Chapitre 4 : Traitement de données en tables](./_ressources/4.TABLES)
+## [Chapitre 4 : Traitement de données en tables](./_ressources/4.TABLES/README.md)
 
-## [Chapitre 5 : Algorithmique (partie 1)](./_ressources/5.ALGO_1)
+## [Chapitre 5 : Algorithmique (partie 1)](./_ressources/5.ALGO_1/README.md)
 
-## [Chapitre 6 : Interactions entre l’homme et la machine sur le Web](./_ressources/6.WEB)
+## [Chapitre 6 : Interactions entre l’homme et la machine sur le Web](./_ressources/6.WEB/README.md)
 
-## [Chapitre 7 : Architectures matérielles et systèmes d'exploitation](./_ressources/7.ARCHI)
+## [Chapitre 7 : Architectures matérielles et systèmes d'exploitation](./_ressources/7.ARCHI/README.md)
 
-## [Chapitre 8 : Algorithmique (partie 2)](./_ressources/8.ALGO_2)
+## [Chapitre 8 : Algorithmique (partie 2)](./_ressources/8.ALGO_2/README.md)
