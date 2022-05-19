@@ -25,7 +25,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 
 ## Tableau indexé, tableau donné en compréhension
 <details>
-  <summary>Contenu, capacités</summary>
+  <summary><i>Contenu, capacités</i></summary>
   
   >| Contenu | Capacités attendues |
   >| :-- | :-- |
@@ -39,7 +39,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 
 ## Dictionnaires par clés et valeurs
 <details>
-  <summary>Contenu, capacités</summary>
+  <summary><i>Contenu, capacités</i></summary>
 
   >| Contenu | Capacités attendues |
   >| :-- | :-- |
