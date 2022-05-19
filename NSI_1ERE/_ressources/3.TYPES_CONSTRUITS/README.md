@@ -33,9 +33,9 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
   
 </details>
   
-- Cours : [Tableau indexé]()
+- **Cours** : [Tableau indexé]()
 
-- TP : [Tableau indexé]()
+- **TP** : [Tableau indexé]()
 
 ## Dictionnaires par clés et valeurs
 <details>
