@@ -11,10 +11,11 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 ## p-uplets et p-uplets nommés
 
 <details>
+  <summary></summary>
   
-  | Contenu | Capacités attendues |
-  | :-- | :-- |
-  | p-uplets et p-uplets nommés | Écrire une fonction renvoyant un p-uplet de valeurs |
+  >| Contenu | Capacités attendues |
+  >| :-- | :-- |
+  >| p-uplets et p-uplets nommés | Écrire une fonction renvoyant un p-uplet de valeurs |
   
 </details>
 
