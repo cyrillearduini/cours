@@ -46,4 +46,4 @@
 
 # [Chapitre 7 : Architectures matérielles et systèmes d'exploitation](./_ressources/7.ARCHI)
 
-# [Chapitre 8 : Algorithmique (partie 2)](./_ressources/4.ALGO_2)
+# [Chapitre 8 : Algorithmique (partie 2)](./_ressources/8.ALGO_2)
