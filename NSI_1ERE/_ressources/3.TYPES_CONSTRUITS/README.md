@@ -11,7 +11,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 ## p-uplets et p-uplets nommés
 - Cours : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/nsi-premiere/master/6.TYPES_CONSTRUITS/3.1-Cours_p-uplets.ipynb)
 
-- TP : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/nsi-premiere/master/6.TYPES_CONSTRUITS/3.2 - TP p-uplets.ipynb)
+- TP : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/nsi-premiere/master/6.TYPES_CONSTRUITS/3.2-TP_p-uplets.ipynb)
 
 ## Tableau indexé, tableau donné en compréhension
 - Cours : 
