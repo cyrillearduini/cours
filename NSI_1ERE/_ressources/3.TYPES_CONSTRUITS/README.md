@@ -9,14 +9,7 @@ Par exemple, si nous voulons gérer un ensemble de points en géométrie, chacun
 Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux types d’objets : le type **tuple** (n-uplet), le type **list** (liste) et le type **dict** (dictionnaire). Ces types présentent des **points communs** mais aussi des **différences**, ils nous permettront d’adresser des besoins similaires et leur différences nous aideront à faire notre choix en fonction du problème à résoudre.
 
 ## p-uplets et p-uplets nommés
-
-
 | Contenu | Capacités attendues |
-| :-- | :-- |
-| ## p-uplets et p-uplets nommés | Écrire une fonction renvoyant un p-uplet de valeurs |
-
-
-| Contenus | Capacités attendues |
 | :-- | :-- |
 | p-uplets. <br>p-uplets nommés | Écrire une fonction renvoyant un p-uplet de valeurs |
 
@@ -25,7 +18,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 - TP : [p-uplets et p-uplets nommés](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/cyrillearduini/NSI/main/NSI_1ERE/_ressources/3.TYPES_CONSTRUITS/3.2-TP_p-uplets.ipynb)
 
 ## Tableau indexé, tableau donné en compréhension
-| Contenus | Capacités attendues |
+| Contenu | Capacités attendues |
 | :-- | :-- |
 | Tableau indexé, tableau donné en compréhension | Lire et modifier les éléments d’un tableau grâce à leurs index<br>Construire un tableau par compréhension<br> Utiliser des tableaux de tableaux pour représenter des matrices : notation a[i][j] <br>Itérer sur les éléments d’un tableau |
 
@@ -34,7 +27,7 @@ Pour répondre à ce type de besoins, nous allons donc étudier trois nouveaux t
 - TP : 
 
 ## Dictionnaires par clés et valeurs
-| Contenus | Capacités attendues |
+| Contenu | Capacités attendues |
 | :-- | :-- |
 | Dictionnaires par clés et valeurs | Construire une entrée de dictionnaire <br>Itérer sur les éléments d’un dictionnaire |
 
