@@ -8,7 +8,7 @@
   <summary>Introduction au cours de NSI</summary> 
 
   ## En classe de terminale :
-  -	__6 heures__ par semaine
+  _6 heures par semaine_
   
   Cet enseignement s’appuie sur l’universalité de quatre concepts fondamentaux et la variété de leurs interactions :
 - Les **données**, qui représentent sous une forme numérique unifiée des informations très diverses : textes, images, sons, mesures physiques, sommes d’argent, etc.
@@ -19,7 +19,7 @@
   À ces concepts s’ajoute un élément transversal : les **interfaces** qui permettent la communication avec les humains, la collecte des données et la commande des systèmes.
 
   Un enseignement d’informatique ne saurait se réduire à une présentation de concepts ou de méthodes sans permettre aux élèves de se les approprier en développant des **projets applicatifs**.
-  Une part de l’horaire de l’enseignement d’au moins un quart du total en classe de première doit être réservée à la conception et à l’élaboration de projets conduits par des groupes de deux à quatre élèves.
+  Une part de l’horaire de l’enseignement d’au moins un quart du total en classe doit être réservée à la conception et à l’élaboration de projets conduits par des groupes de deux à quatre élèves.
 
   ## Le baccalauréat :
   L’évaluation de la spécialité NSI au bac se décompose en deux parties :
