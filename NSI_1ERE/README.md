@@ -12,7 +12,6 @@
   -	Les élèves qui apprécient la démarche de projet
 
   ## Les horaires :
-  -	__4 heures__ en classe de première 
   -	__6 heures__ en classe de terminale 
 
   ## Le baccalauréat :
@@ -26,6 +25,8 @@
   A noter : Les deux épreuves n'auront pas lieu le même jour.
 
   ## En classe de première :
+  -	__4 heures__ par semaine 
+  
   Cet enseignement s’appuie sur l’universalité de quatre concepts fondamentaux et la variété de leurs interactions :
 - Les **données**, qui représentent sous une forme numérique unifiée des informations très diverses : textes, images, sons, mesures physiques, sommes d’argent, etc.
 - Les **algorithmes**, qui spécifient de façon abstraite et précise des traitements à effectuer sur les données à partir d’opérations élémentaires.
