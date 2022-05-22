@@ -30,11 +30,11 @@ Il permet de développer des compétences :
 - Développer des capacités d’**abstraction** et de généralisation.
 
 Cet enseignement a vocation à multiplier les occasions de mise en activité des élèves, sous des formes variées qui permettent de développer des compétences transversales :
-- Faire preuve d’autonomie, d’initiative et de créativité ;
-- Présenter un problème ou sa solution, développer une argumentation dans le cadre d’un débat ;
-- Coopérer au sein d’une équipe dans le cadre d’un projet ;
-- Rechercher de l’information, partager des ressources ;
-- Faire un usage responsable et critique de l’informatique.
+- Faire preuve d’**autonomie**, d’**initiative** et de **créativité** ;
+- **Présenter** un problème ou sa solution, développer une **argumentation** dans le cadre d’un débat ;
+- **Coopérer** au sein d’une équipe dans le cadre d’un projet ;
+- **Rechercher** de l’information, **partager** des ressources ;
+- Faire un usage **responsable** et critique de l’informatique.
 
 ## Le baccalauréat 
 En fin de première, si vous conservez NSI pour la terminale, seules les notes de l'épreuve de terminale compteront pour le baccalauréat avec le coefficient **16 sur 60**. (_Pour plus d'informations allez voir l'introduction du cours de terminale_)  
