@@ -6,8 +6,8 @@
 <details>
   <summary>Introduction au cours de NSI</summary> 
 
-  ## En classe de première :
-  _6 heures par semaine_
+  ## En classe de première _4 heures par semaine_ :
+  _4 heures par semaine_
   
   Cet enseignement s’appuie sur l’universalité de quatre concepts fondamentaux et la variété de leurs interactions :
 - Les **données**, qui représentent sous une forme numérique unifiée des informations très diverses : textes, images, sons, mesures physiques, sommes d’argent, etc.
