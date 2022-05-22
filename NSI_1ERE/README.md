@@ -16,7 +16,14 @@
   -	__6 heures__ en classe de terminale 
 
   ## Le baccalauréat :
-  Épreuve écrite au bac dans la version actuelle du bac mais cela pourrait évoluer vers un oral avec préparation d’un projet informatique...
+  En fin de première, si vous conservez NSI pour la terminale, seules les notes de l'épreuve de terminale compteront pur le baccalauréat avec le coefficient 16 (sur 60) pour plus d'informations allez voir l'introduction du cours de terminale.
+  Si vous abandonnez NSI en fin de première, les notes de l'année compteront dans la note de contrôle continu avec le coefficient 8 (sur 40)
+  
+  L’évaluation de la spécialité NSI au bac se décompose en deux parties :
+  - La première est une partie écrite sur 12 points : Vous aurez 3h30 pour composer autour de trois exercicesau choix sur cinq proposés. Chaque exercice vaut 4 points.
+  - La seconde, une épreuve pratique sur 8 points. Elle consiste à résoudre 2 exercices sur ordinateur, notés chacun sur 4 points. Vous serez évalué sur la base d'un dialogue avec un professeur examinateur.
+  
+  A noter : Les deux épreuves n'auront pas lieu le même jour.
 
   ## En classe de première :
   Cet enseignement s’appuie sur l’universalité de quatre concepts fondamentaux et la variété de leurs interactions :
