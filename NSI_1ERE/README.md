@@ -6,7 +6,7 @@
 <details>
   <summary>Introduction au cours de NSI</summary> 
 
-  ## En classe de première _4 heures par semaine_ :
+  ## En classe de première 
   _4 heures par semaine_
   
   Cet enseignement s’appuie sur l’universalité de quatre concepts fondamentaux et la variété de leurs interactions :
@@ -20,7 +20,7 @@
   Un enseignement d’informatique ne saurait se réduire à une présentation de concepts ou de méthodes sans permettre aux élèves de se les approprier en développant des **projets applicatifs**.
   Une part de l’horaire de l’enseignement d’au moins un quart du total en classe doit être réservée à la conception et à l’élaboration de projets conduits par des groupes de deux à quatre élèves.
 
-  ## Le baccalauréat :
+  ## Le baccalauréat 
   En fin de première, si vous conservez NSI pour la terminale, seules les notes de l'épreuve de terminale compteront pour le baccalauréat avec le coefficient 16 (sur 60) pour plus d'informations allez voir l'introduction du cours de terminale.
   Si vous abandonnez NSI en fin de première, les notes de l'année compteront dans la note de contrôle continu avec le coefficient 8 (sur 40)
 
