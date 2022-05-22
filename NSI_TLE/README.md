@@ -7,7 +7,7 @@
 <details>
   <summary>Introduction au cours de NSI</summary> 
 
-## En classe de terminale :
+## En classe de terminale
 _6 heures par semaine_
   
 Cet enseignement s’appuie sur l’universalité de quatre concepts fondamentaux et la variété de leurs interactions :
@@ -21,7 +21,7 @@ Cet enseignement s’appuie sur l’universalité de quatre concepts fondamentau
 Un enseignement d’informatique ne saurait se réduire à une présentation de concepts ou de méthodes sans permettre aux élèves de se les approprier en développant des **projets applicatifs**.
 Une part de l’horaire de l’enseignement d’au moins un quart du total en classe doit être réservée à la conception et à l’élaboration de projets conduits par des groupes de deux à quatre élèves.
 
-## Le baccalauréat :
+## Le baccalauréat
 L’évaluation de la spécialité NSI au bac se décompose en deux parties :
 - La première est une partie écrite sur 12 points. Vous aurez 3h30 pour composer autour de trois exercices au choix sur cinq proposés. Chaque exercice vaut 4 points.
 - La seconde est une épreuve pratique sur 8 points. Elle consiste à résoudre 2 exercices sur ordinateur, notés chacun sur 4 points. Vous serez évalué sur la base d'un dialogue avec un professeur examinateur.
