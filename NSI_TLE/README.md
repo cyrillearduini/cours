@@ -10,7 +10,7 @@
 ## En classe de terminale
 _6 heures par semaine_
   
-Cet enseignement s’appuie sur l’universalité de quatre concepts fondamentaux et la variété de leurs interactions :
+Cet enseignement s’appuie sur quatre concepts fondamentaux :
 - Les **données**, qui représentent sous une forme numérique unifiée des informations très diverses : textes, images, sons, mesures physiques, sommes d’argent, etc.
 - Les **algorithmes**, qui spécifient de façon abstraite et précise des traitements à effectuer sur les données à partir d’opérations élémentaires.
 -  Les **langages**, qui permettent de traduire les algorithmes abstraits en programmes textuels ou graphiques de façon à ce qu’ils soient exécutables par les machines.
@@ -23,8 +23,8 @@ Une part de l’horaire de l’enseignement d’au moins un quart du total en cl
 
 ## Le baccalauréat
 L’évaluation de la spécialité NSI au bac se décompose en deux parties :
-- La première est une partie écrite sur 12 points. Vous aurez 3h30 pour composer autour de trois exercices au choix sur cinq proposés. Chaque exercice vaut 4 points.
-- La seconde est une épreuve pratique sur 8 points. Elle consiste à résoudre 2 exercices sur ordinateur, notés chacun sur 4 points. Vous serez évalué sur la base d'un dialogue avec un professeur examinateur.
+- La première est une partie écrite sur **12 points**. Vous aurez 3h30 pour composer autour de trois exercices au choix sur cinq proposés. Chaque exercice vaut 4 points.
+- La seconde est une épreuve pratique sur **8 points**. Elle consiste à résoudre 2 exercices sur ordinateur, notés chacun sur 4 points. Vous serez évalué sur la base d'un dialogue avec un professeur examinateur.
   
 _A noter :_
 - _Les deux épreuves n'auront pas lieu le même jour._
