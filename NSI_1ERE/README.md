@@ -16,7 +16,7 @@
   -	__6 heures__ en classe de terminale 
 
   ## Le baccalauréat :
-  En fin de première, si vous conservez NSI pour la terminale, seules les notes de l'épreuve de terminale compteront pur le baccalauréat avec le coefficient 16 (sur 60) pour plus d'informations allez voir l'introduction du cours de terminale.
+  En fin de première, si vous conservez NSI pour la terminale, seules les notes de l'épreuve de terminale compteront pour le baccalauréat avec le coefficient 16 (sur 60) pour plus d'informations allez voir l'introduction du cours de terminale.
   Si vous abandonnez NSI en fin de première, les notes de l'année compteront dans la note de contrôle continu avec le coefficient 8 (sur 40)
   
   L’évaluation de la spécialité NSI au bac se décompose en deux parties :
