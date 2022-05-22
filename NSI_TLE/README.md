@@ -26,9 +26,9 @@ L’évaluation de la spécialité NSI au bac se décompose en deux parties :
 - La première est une partie écrite sur 12 points. Vous aurez 3h30 pour composer autour de trois exercices au choix sur cinq proposés. Chaque exercice vaut 4 points.
 - La seconde est une épreuve pratique sur 8 points. Elle consiste à résoudre 2 exercices sur ordinateur, notés chacun sur 4 points. Vous serez évalué sur la base d'un dialogue avec un professeur examinateur.
   
-_A noter :
-- Les deux épreuves n'auront pas lieu le même jour.
-- Les notes de l'épreuve de terminale compteront pour le baccalauréat avec le coefficient 16 sur 60._
+_A noter :_
+- _Les deux épreuves n'auront pas lieu le même jour._
+- _Les notes de l'épreuve de terminale compteront pour le baccalauréat avec le coefficient 16 sur 60._
 
 </details>
 
