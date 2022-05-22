@@ -21,7 +21,7 @@ Un enseignement d’informatique ne saurait se réduire à une présentation de 
 Une part de l’horaire de l’enseignement d’au moins un quart du total en classe doit être réservée à la conception et à l’élaboration de projets conduits par des groupes de deux à quatre élèves.
 
 ## Le baccalauréat 
-En fin de première, si vous conservez NSI pour la terminale, seules les notes de l'épreuve de terminale compteront pour le baccalauréat avec le coefficient 16 sur 60. (_Pour plus d'informations allez voir l'introduction du cours de terminale_)
+En fin de première, si vous conservez NSI pour la terminale, seules les notes de l'épreuve de terminale compteront pour le baccalauréat avec le coefficient 16 sur 60. (_Pour plus d'informations allez voir l'introduction du cours de terminale_)  
 Si vous abandonnez NSI en fin de première, les notes de l'année compteront dans le contrôle continu avec le coefficient 8 (sur 40)
 
 </details>
